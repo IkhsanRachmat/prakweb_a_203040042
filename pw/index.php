@@ -89,9 +89,8 @@
            <td>Rp.<?php echo $row['harga']; ?></td>
           <td style="text-align: center;"><img src="gambar/<?php echo $row['gambar']; ?>" style="width: 120px;"></td>
           <td>
-              <a class='btn btn-primary btn-sm' href="edit_produk.php?id=<?php echo $row['no']; ?>">Update Data</a> |
-              <a class='btn btn-danger btn-sm' href="proses_hapus.php?id=<?php echo $row['no']; ?>" onclick="return confirm('Anda yakin akan menghapus data ini?')">Hapus Data</a> |
-              <a class='btn btn-warning btn-sm' href="edit_produk.php?id=<?php echo $row['no']; ?>">Lihat Data Details</a>
+              <a class='btn btn-primary btn-sm' href="edit_produk.php?id=<?php echo $row['no']; ?>">Update Data</a>
+              <a class='btn btn-danger btn-sm' href="proses_hapus.php?id=<?php echo $row['no']; ?>" onclick="return confirm('Anda yakin akan menghapus data ini?')">Hapus Data</a>
           </td>
       </tr>
          
