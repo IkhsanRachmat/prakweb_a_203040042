@@ -13,8 +13,7 @@
         font-family: "Trebuchet MS";
       }
       h1 {
-        
-        color: green;
+        color: blue;
       }
     table {
       border: solid 4px blue;
@@ -48,7 +47,7 @@
     </style>
   </head>
   <body>
-    <center><h1>Buku Skuy</h1><center>
+    <center><h1><b><u>Buku Skuy</u></b></h1><center>
     <center><a href="tambah_produk.php">+ &nbsp; Tambah Produk</a><center>
     <br/>
     <table>
