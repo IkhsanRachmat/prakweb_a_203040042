@@ -17,30 +17,30 @@
         color: green;
       }
     table {
-      border: solid 1px #DDEEEE;
+      border: solid 4px blue;
       border-collapse: collapse;
       border-spacing: 0;
-      width: 70%;
+      width: 100%;
       margin: 10px auto 10px auto;
     }
     table thead th {
         background-color: #DDEFEF;
-        border: solid 1px #DDEEEE;
-        color: #336B6B;
+        border: solid 2px #DDEEEE;
+        color: blue;
         padding: 10px;
-        text-align: left;
+        text-align: center;
         text-shadow: 1px 1px 1px #fff;
         text-decoration: none;
     }
     table tbody td {
-        border: solid 1px #DDEEEE;
-        color: #333;
+        border: solid 3px #DDEEEE;
+        color: black;
+        text-align: center;
         padding: 10px;
-        /*text-shadow: 1px 1px 1px #fff;*/
     }
     a {
           background-color: green;
-          color: #fff;
+          color: white;
           padding: 10px;
           text-decoration: none;
           font-size: 15spx;
