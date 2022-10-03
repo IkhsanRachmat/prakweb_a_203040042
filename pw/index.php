@@ -38,7 +38,7 @@
         padding: 10px;
     }
     a {
-          background-color: green;
+          background-color: blue;
           color: white;
           padding: 10px;
           text-decoration: none;
