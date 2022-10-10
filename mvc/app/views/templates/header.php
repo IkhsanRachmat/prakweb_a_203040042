@@ -5,6 +5,11 @@
   <meta charset="UTF-8">
   <link rel="stylesheet" href="<?= BASEURL; ?>/css/bootstrap.css">
   <title>Halaman <?= $data['judul']; ?></title>
+  <style>
+    body {
+      background-color: khaki;
+    }
+  </style>
 </head>
 
 <body>
